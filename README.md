@@ -5,3 +5,5 @@
 2. Education (education.html)
 3. Work (work.html)
 4. Contact (contact.html)
+ 
+ ชัยรัตน์ ทรัพย์สนอง (ตูน)
